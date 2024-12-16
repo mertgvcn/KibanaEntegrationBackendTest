@@ -1,0 +1,6 @@
+@KibanaEntegrationBackendTest_HostAddress = http://localhost:5237
+
+GET {{KibanaEntegrationBackendTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
